@@ -56,7 +56,7 @@
 
 ## 🌐 Live Demo
 
-[Try the app live](https://predictyourhose.streamlit.app/)
+[Try the app live](https://propertify.streamlit.app/)
 
 ## 📷 Project Screenshots
 
